@@ -2,3 +2,6 @@ PyQt5
 mss
 numpy
 requests
+pytesseract
+Pillow
+cryptography

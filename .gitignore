@@ -1,0 +1,70 @@
+# Secrets
+.env
+.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+wheels/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+parts/
+var/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.Python
+
+# Distribution / packaging
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-link
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+htmlcov/
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+
+# MyPy / type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
